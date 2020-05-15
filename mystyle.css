@@ -1,6 +1,8 @@
 
-#bg {
-    height: 800px;
+ .parthenon{
+    visibility: hidden;
+}
+div{
     width: 1200px;
-    background-color: lightblue;
+    height: 800px;
 }
